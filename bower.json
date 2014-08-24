@@ -1,0 +1,11 @@
+{
+  "name": "angular-oz-color-iterator",
+  "version": "0.0.1",
+  "homepage": "https://github.com/jamm/angular-oz-color-iterator",
+  "authors": [
+    "OZ <normandiggs@gmail.com>"
+  ],
+  "description": "Simple tool for colors set iteration",
+  "main": "coloriterator.js",
+  "license": "MIT"
+}
