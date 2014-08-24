@@ -2,7 +2,6 @@
 
 /**
  * @ngdoc service
- * @name smbApp.ColorIterator
  * @description
  * # ColorIterator
  */
